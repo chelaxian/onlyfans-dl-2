@@ -18,8 +18,9 @@ SESS_COOKIE = "xxx"
 #########################
 # SYSTEM CONFIG (START) #
 #########################
-# path to script onlyfans-dl.py
+# path to active dl-script (choose 'onlyfans-dl.py' or 'onlyfans-async-dl.py')
 ONLYFANS_DL_SCRIPT = 'onlyfans-dl.py'
+#ONLYFANS_DL_SCRIPT = 'onlyfans-async-dl.py'
 
 dynamic_rules = {"static_param":"r0COhCenVY6tUCrcnkbwz727f1m0UHsv","start":"36587","end":"67a0ec50","checksum_constant":118,"checksum_indexes":[1,1,1,2,2,5,5,6,6,7,7,11,12,12,13,14,14,16,17,20,20,20,21,23,24,25,25,25,29,30,31,39],"app_token":"33d57ade8c02dbc5a333db99ff9ae26a","remove_headers":["user_id"],"revision":"202404181902-08205f45c3","is_current":0,"format":"36587:{}:{:x}:67a0ec50","prefix":"36587","suffix":"67a0ec50"}  
 
